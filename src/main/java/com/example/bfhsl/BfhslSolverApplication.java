@@ -16,9 +16,9 @@ import java.util.Map;
 public class BfhslSolverApplication {
 
     // Candidate details
-    private static final String NAME = "John Doe";
-    private static final String REG_NO = "REG12347";  // use your reg no
-    private static final String EMAIL = "john@example.com";
+    private static final String NAME = "Safeeq Ahamed";
+    private static final String REG_NO = "22BCE5111";  
+    private static final String EMAIL = "ssafeeq2004@gmail,com";
 
     private static final String GENERATE_URL =
             "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA";
